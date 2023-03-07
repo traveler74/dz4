@@ -1,0 +1,63 @@
+body{
+    background-image: url("3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+img{
+    width: 400px;
+    margin: 10px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+div{
+    margin: 35px 35px 35px 35px;
+}
+
+#special1{
+    list-style-type: none;
+}
+#special2{
+    list-style-type: circle;
+}
+
+
+p{
+background-color: rgba(255, 255, 255, 0.1);
+    color: darkgoldenrod;
+    text-align: justify;
+}
+
+
+nav{
+    text-align: center;
+background-size: 50px 50px;
+
+}
+
+ol{
+    color: greenyellow;
+}
+
+#fl1{
+    float: left;
+}
+
+#fl2{
+    float: right;
+}
+
+#fl3{
+    float: left;
+}
+
+#fl4{
+    float: right;
+}
+
+#fl5{
+    float: left;
+}
